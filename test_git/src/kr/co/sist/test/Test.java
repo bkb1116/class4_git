@@ -8,6 +8,7 @@ public class Test {
 		//kenshin2°¡ ¼öÁ¤
 		int j=0;
 		System.out.println("j="+j);
+		
 	}
 
 }
